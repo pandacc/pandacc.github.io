@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我每天都在github上做些什么
-category: 生活
+category: 生活2
 tags:
 keywords:
 description: 
